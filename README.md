@@ -9,6 +9,9 @@ Student in chemistry at EPFL
   <a href="http://www.python.org">
     <img src="https://skillicons.dev/icons?i=py&theme=dark"/>
   </a>
+  <a href="https://www.latex-project.org/>
+    <img src="https://skillicons.dev/icons?i=latex&theme=dark"/>
+  </a>
 </p>
 
 • During my spare time:
