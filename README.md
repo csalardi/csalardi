@@ -6,10 +6,10 @@ Student in chemistry at EPFL
   <a href="https://fr.linux-console.net/?p=17184">
     <img src="https://skillicons.dev/icons?i=bash&theme=dark"/>
   </a>
-  <a href="http://www.python.org">
+  <a href="https://www.python.org">
     <img src="https://skillicons.dev/icons?i=py&theme=dark"/>
   </a>
-  <a href="https://www.latex-project.org/>
+  <a href="https://www.latex-project.org">
     <img src="https://skillicons.dev/icons?i=latex&theme=dark"/>
   </a>
 </p>
